@@ -1,5 +1,3 @@
-![Banner](images/banner.png)
-
 # 📊 Swiggy Financial Correlation Analysis
 
 ## Project Information
