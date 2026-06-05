@@ -1,8 +1,17 @@
 # 📊 Swiggy Financial Correlation Analysis
 
-## Business Analytics Project
+## Project Information
 
-Analyzing relationships among key financial variables of Swiggy using correlation analysis and heatmap visualization.
+| Category | Details |
+|----------|----------|
+| Project Type | Business Analytics |
+| Industry | Food Delivery |
+| Company | Swiggy |
+| Tools Used | Python, Pandas, Seaborn |
+| Analysis Type | Correlation Analysis |
+| Status | Completed |
+
+
 
 ## Executive Summary
 
@@ -14,7 +23,9 @@ The project demonstrates the practical application of Python-based business anal
 
 ## Business Context
 
-Swiggy is one of India's leading food delivery and quick-commerce platforms.
+Swiggy is one of India's leading food delivery and quick-commerce platforms. 
+
+It was selected due to its rapid growth in India's food delivery and quick-commerce sector, making it an interesting case study for financial analytics.
 
 Understanding relationships between financial statement variables can help analysts identify patterns in capital allocation, liabilities, investments, and asset growth.
 
@@ -45,6 +56,10 @@ The dataset contains variables including:
 - Total Assets
 
 and other balance sheet indicators across multiple years.
+
+## Dataset Preview
+
+![Dataset](images/dataset-preview.png)
 
 ## Tools & Technologies
 
@@ -98,10 +113,9 @@ sns.heatmap(
 
 ## Key Findings
 
-- Several financial variables demonstrate strong positive relationships.
-- Asset-related indicators exhibit interconnected growth patterns.
-- The heatmap effectively highlights financial dependencies across balance sheet components.
-- Correlation analysis provides a quick way to identify patterns hidden in raw financial data.
+- Equity Capital and Deposits show a very strong positive correlation (0.94), suggesting that periods of capital growth were accompanied by increased deposit activity..
+- Other Liabilities and Total Liabilities exhibit an extremely strong correlation (0.97), indicating that changes in total liabilities were largely influenced by changes in other liabilities.
+- Investments and Borrowings show a strong positive relationship (0.84), suggesting a potential connection between financing activities and investment decisions.
 
 ## Business Relevance
 
@@ -126,7 +140,7 @@ Through this project, I strengthened my understanding of:
 
 This project reflects my growing interest in using data-driven approaches to understand business performance and support decision-making.
 
-## Author
+## About the Analyst
 
 Mridul Krishna Parauha
 
