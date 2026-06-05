@@ -41,10 +41,13 @@ This project explores these relationships using correlation analysis to uncover 
 
 ## Dataset
 
-Source:
-Financial statement data extracted from Screener using publicly available Swiggy balance sheet information.
+### Source
 
-The dataset contains variables including:
+The dataset was compiled using publicly available balance sheet information of Swiggy obtained from Screener.
+
+### Dataset Scope
+
+The dataset contains key financial statement variables across multiple reporting periods, including:
 
 - Equity Capital
 - Reserves
@@ -55,7 +58,9 @@ The dataset contains variables including:
 - Other Assets
 - Total Assets
 
-and other balance sheet indicators across multiple years.
+### Purpose
+
+The dataset was used to explore relationships among financial variables and identify patterns through correlation analysis and heatmap visualization.
 
 ## Dataset Preview
 
