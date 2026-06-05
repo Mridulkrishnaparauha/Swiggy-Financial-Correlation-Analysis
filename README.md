@@ -1,3 +1,5 @@
+![Banner](images/banner.png)
+
 # 📊 Swiggy Financial Correlation Analysis
 
 ## Project Information
@@ -143,12 +145,25 @@ Through this project, I strengthened my understanding of:
 - Data Visualization
 - Python for Business Applications
 
-This project reflects my growing interest in using data-driven approaches to understand business performance and support decision-making.
+## Future Scope
+
+Potential extensions of this project include:
+
+- Regression Analysis
+- Financial Forecasting
+- Interactive Power BI Dashboards
+- Predictive Analytics Models
+- Multi-Company Financial Comparison
+  
+## Conclusion
+
+This analysis demonstrated how correlation techniques can uncover relationships among financial variables and support data-driven business understanding.
+
+The project highlights the practical application of business analytics tools in exploring corporate financial performance and generating meaningful insights from structured data.
 
 ## About the Analyst
 
-Mridul Krishna Parauha
+Mridul Krishna Parauha 
 
 BBA (Digital Marketing & AI) Student
 
-Passionate about Business Analytics, Marketing, AI, and Data-Driven Decision Making.
