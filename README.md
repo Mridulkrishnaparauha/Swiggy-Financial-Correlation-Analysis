@@ -64,7 +64,7 @@ The dataset was used to explore relationships among financial variables and iden
 
 ## Dataset Preview
 
-![Dataset](images/dataset-preview.png)
+<img width="1323" height="162" alt="image" src="https://github.com/user-attachments/assets/cc05a3e9-8dac-4014-b967-80f6f4ba90ef" />
 
 ## Tools & Technologies
 
